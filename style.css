@@ -1,0 +1,17 @@
+body{
+    background-image: url("./wooden.jpg");
+    background-size: 100%;
+}
+.maindiv{
+    background:rgba(0, 0, 0, 0.3);
+    border-radius: 10%;
+    width: 200px;
+    padding: 5%;
+    color: black;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 40%;
+}
+.maindiv:hover{
+    letter-spacing: 4px;
+}
